@@ -1,0 +1,5 @@
+# Soft Prepend
+#
+# Never override the players prepend.
+# Instead style specific prepends are inserted directly into the formspec
+soft_prepend (Soft Prepend) bool false
